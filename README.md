@@ -7,7 +7,7 @@ I'm a cybersecurity enthusiast, classical music composer, and creative thinker w
 ## 💼 Core Skill Set & Domains
 
 - 🛠️ **Cyber Security (Red Team / Pentesting / Bug Bounty)**
-- OSCP / OSEE mindset with real-world attack simulation experience
+- OSCP mindset with real-world attack simulation experience
 - Skilled in Kali Linux, NetHunter, Burp Suite, nmap, Metasploit
 - Automated scanning & exploitation scripts for fast recon & attacks
 - Custom ESP8266 firmware creation (WiFi Rubber Ducky, phishing kits)
@@ -40,8 +40,6 @@ I'm a cybersecurity enthusiast, classical music composer, and creative thinker w
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamronsafar&layout=compact&theme=radical)
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kamronsafar&theme=onedark)](https://github.com/kamronsafar)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&vCenter=true&multiline=true&width=600&height=80&lines=Red+Team+Operator+%F0%9F%9A%80;WiFi+Hacking+Firmware+Dev+%F0%9F%94%92;Bug+Bounty+Automation+Architect+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Music+Composer+%26+Creative+Soul+%F0%9F%8E%B5)](https://git.io/typing-svg)
 
 ---
 
