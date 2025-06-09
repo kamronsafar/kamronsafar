@@ -1,4 +1,3 @@
-# 👨‍💻 Multi-Talented Developer | 🎵 Composer | 🛡️ Red Teamer | 🎨 Creator
 
 **Hello, I'm Kamron**
 I'm a cybersecurity enthusiast, classical music composer, and creative thinker who loves combining technology and art.
@@ -41,8 +40,11 @@ I'm a cybersecurity enthusiast, classical music composer, and creative thinker w
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kamronsafar&theme=onedark)](https://github.com/kamronsafar)
 
+
 ---
 
+
+<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 ## 🤖 Let’s Connect
 
  > I'm developing next-gen pentesting tools, real-time attack dashboards
