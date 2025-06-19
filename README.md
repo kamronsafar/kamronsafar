@@ -1,15 +1,15 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FF6F00&center=true&vCenter=true&width=600&lines=Cyber+Security+Enthusiast;Red+Team+%2F+Pentester;Bug+Bounty+Hunter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Cyber+Security+Enthusiast;Red+Team+%2F+Pentester;Bug+Bounty+Hunter" alt="Typing SVG" />
 </p>
 
 ---
 <!-- markdown version -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kamronsafar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
+  
   <img src="https://streak-stats.demolab.com?user=kamronsafar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
+  
   <img src="https://komarev.com/ghpvc/?username=kamronsafar&style=flat-square" alt="Profile Views"/>
 </p>
 
