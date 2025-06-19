@@ -7,14 +7,15 @@
 </p>
 
 ---
-
+<!-- markdown version -->
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamronsafar&show_icons=true&theme=tokyonight)
-  &nbsp;
-  ![GitHub Streak](https://streak-stats.demolab.com?user=kamronsafar&theme=tokyonight&hide_border=true)
-  &nbsp;
-  ![Views](https://komarev.com/ghpvc/?username=kamronsafar&style=flat-square)
+  <img src="https://github-readme-stats.vercel.app/api?username=kamronsafar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=kamronsafar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=kamronsafar&style=flat-square" alt="Profile Views"/>
 </p>
+
 
 ---
 
