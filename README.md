@@ -4,6 +4,11 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamronsafar&show_icons=true&theme=tokyonight)
 
 
+<a href="https://github.com/kamronsafar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF6F00&center=true&vCenter=true&width=435&lines=Cyber+Security+Enthusiast;Red+Team+%2F+Pentester;CTF+Player+%7C+Bug+Bounty+Hunter;Open+Source+Contributor" alt="Typing SVG" /></a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kamronsafar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![Visitors](https://komarev.com/ghpvc/?username=kamronsafar&label=PROFILE+VIEWS&style=flat-square&color=blue)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kamronsafar&theme=onedark&row=1&no-frame=true&no-bg=true&animation=true)](https://github.com/kamronsafar)
 
