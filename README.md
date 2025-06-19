@@ -5,7 +5,8 @@
 
 
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kamronsafar&theme=onedark)](https://github.com/kamronsafar)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kamronsafar&theme=onedark&row=1&no-frame=true&no-bg=true&animation=true)](https://github.com/kamronsafar)
+
 
 ### 🖥️ Operating Systems
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
