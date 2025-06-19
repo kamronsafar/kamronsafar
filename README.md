@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" alt="Matrix Rain" width="600"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FF6F00&center=true&vCenter=true&width=600&lines=Cyber+Security+Enthusiast;Red+Team+%2F+Pentester;Bug+Bounty+Hunter" alt="Typing SVG" />
