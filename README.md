@@ -1,3 +1,9 @@
+## 👤 Author
+
+![Kamron Saparbayev](https://avatars.githubusercontent.com/u/134091599?s=400&u=5799bb8c72ed31f40af40c74b97fa2f355ac45a1&v=4)
+
+**Kamron Saparbayev** 
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamronsafar&show_icons=true&theme=tokyonight)
 
