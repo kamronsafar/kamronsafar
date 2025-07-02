@@ -11,86 +11,68 @@
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kamronsafar&theme=onedark)](https://github.com/kamronsafar)
 
 
----
-
-### 🧠 Operating Systems
-
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" title="Arch Linux"></code>
-<code><img height="30" src="https://www.blackarch.org/images/blackarch-icon.png" title="BlackArch"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Kali_Linux_Logo.png" title="Kali Linux"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Ubuntu_logo_2022.svg" title="Ubuntu"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Ubuntu_logo_2022.svg" title="Ubuntu Server"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2021.svg" title="Windows"></code>
+###  Operating Systems
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![BlackArch](https://img.shields.io/badge/BlackArch-E00000?style=flat&logo=linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-333333?style=flat&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ---
 
-### 👨‍💻 Programming & Scripting Languages
-
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Assembly-language-icon.png" title="Assembly x86_64"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" title="Python"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" title="Bash"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" title="C++"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Batch_file_icon.png" title="Batch Script"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" title="PowerShell"></code>
-
----
-
-### ⚙️ Tools & Environment
-
-<code><img height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git"></code>
-<code><img height="30" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" title="Docker"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" title="Linux (Tux)"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" title="Neovim"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Kali_Linux_Logo.png" title="Kali Linux"></code>
+### Programming & Scripting Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch_Script-000000?style=flat&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly_x86_64-6E4C13?style=flat&logo=gear&logoColor=white)
 
 ---
 
-### 🛠️ Top Security & Pentesting Tools
-
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Metasploit_logo.png/800px-Metasploit_logo.png" title="Metasploit"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Wireshark_icon.png" title="Wireshark"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Hashcat-logo.png" title="Hashcat"></code>
-<code><img height="30" src="https://www.hackerone.com/sites/default/files/inline-images/john-the-ripper.png" title="John the Ripper"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/PortSwigger/portswigger-logo/master/logo.svg" title="Burp Suite"></code>
-<code><img height="30" src="https://nmap.org/images/favicon.ico" title="Nmap"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/ZAP_logo.svg/1280px-ZAP_logo.svg.png" title="OWASP ZAP"></code>
-
----
-
-### 📶 Wireless Hacking Tools
-
-<code><img height="30" src="https://www.aircrack-ng.org/assets/images/logo.png" title="Aircrack-ng"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/37889749?s=200&v=4" title="Bettercap"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Kismet-logo.png" title="Kismet"></code>
-<code><img height="30" src="https://github.com/derv82/wifite2/blob/master/icons/wifite-logo.png?raw=true" title="Wifite"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/6728462?s=200&v=4" title="Reaver"></code>
+###  Security & Pentesting Tools (Top 10)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat&logo=burp-suite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004575?style=flat&logo=data&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-4E9F3D?style=flat&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-00A300?style=flat&logo=lock&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=flat&logo=database&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-800000?style=flat&logo=bugcrowd&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-FF4500?style=flat&logo=search&logoColor=white)
+![JohnTheRipper](https://img.shields.io/badge/John_The_Ripper-333333?style=flat&logo=key&logoColor=white)
+![ZAP](https://img.shields.io/badge/OWASP_ZAP-0033A0?style=flat&logo=owasp&logoColor=white)
 
 ---
 
-### 🧠 Social Engineering Tools
+###  Wireless Hacking Tools
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=flat&logo=wifi&logoColor=white)
+![Bettercap](https://img.shields.io/badge/Bettercap-FF0000?style=flat&logo=network&logoColor=white)
+![Kismet](https://img.shields.io/badge/Kismet-6A5ACD?style=flat&logo=signal&logoColor=white)
+![Wifite](https://img.shields.io/badge/Wifite-FF69B4?style=flat&logo=target&logoColor=white)
+![Reaver](https://img.shields.io/badge/Reaver-000000?style=flat&logo=signal&logoColor=white)
 
-<code><img height="30" src="https://raw.githubusercontent.com/trustedsec/social-engineer-toolkit/master/logo.png" title="SET Toolkit"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/39638399?s=200&v=4" title="Evilginx2"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/58559528?s=200&v=4" title="KingPhisher"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/43018947?s=200&v=4" title="HiddenEye"></code>
+---
+
+###  Social Engineering Tools
+![SET (Social Engineering Toolkit)](https://img.shields.io/badge/SET_Toolkit-E63946?style=flat&logo=ghostery&logoColor=white)
+![Evilginx2](https://img.shields.io/badge/Evilginx2-000000?style=flat&logo=linktree&logoColor=white)
+![KingPhisher](https://img.shields.io/badge/KingPhisher-4682B4?style=flat&logo=fedora&logoColor=white)
+![HiddenEye](https://img.shields.io/badge/HiddenEye-8B0000?style=flat&logo=eyeem&logoColor=white)
 
 ---
 
 ### 🕷 Bug Bounty Tools
-
-<code><img height="30" src="https://avatars.githubusercontent.com/u/53788921?s=200&v=4" title="Sublist3r"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/OWASP/Amass/main/resources/amass.png" title="Amass"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/tomnomnom/logo/master/logo.png" title="Assetfinder"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/tomnomnom/logo/master/logo.png" title="Waybackurls"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/53608296?s=200&v=4" title="GF Patterns"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/69803849?s=200&v=4" title="httpx"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/55594653?s=200&v=4" title="ffuf"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/63280480?s=200&v=4" title="Nuclei"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/57010097?s=200&v=4" title="Hakrawler"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/60531205?s=200&v=4" title="Dalfox"></code>
-
----
-
+![Sublist3r](https://img.shields.io/badge/Sublist3r-3A3A3A?style=flat&logo=search&logoColor=white)
+![Amass](https://img.shields.io/badge/Amass-FFB400?style=flat&logo=attackiq&logoColor=black)
+![Assetfinder](https://img.shields.io/badge/Assetfinder-4169E1?style=flat&logo=find&logoColor=white)
+![Waybackurls](https://img.shields.io/badge/Waybackurls-228B22?style=flat&logo=archive&logoColor=white)
+![GF](https://img.shields.io/badge/GF_&_Templates-800080?style=flat&logo=filter&logoColor=white)
+![httpx](https://img.shields.io/badge/httpx-0A0A0A?style=flat&logo=http&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-F44336?style=flat&logo=bullseye&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-6200EA?style=flat&logo=zapier&logoColor=white)
+![Hakrawler](https://img.shields.io/badge/Hakrawler-191970?style=flat&logo=spider&logoColor=white)
+![Dalfox](https://img.shields.io/badge/Dalfox-F2B134?style=flat&logo=fox&logoColor=white)
 <div align="center">
 
 ### 🎯 TryHackMe & HackTheBox
