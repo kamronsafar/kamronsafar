@@ -9,7 +9,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamronsafar&layout=compact&theme=radical)
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kamronsafar&theme=onedark)](https://github.com/kamronsafar)
-
 ###  Operating Systems
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 ![BlackArch](https://img.shields.io/badge/BlackArch-E00000?style=flat&logo=linux&logoColor=white)
@@ -21,12 +20,12 @@
 ---
 
 ### Programming & Scripting Languages
+![Assembly](https://img.shields.io/badge/Assembly_x86_64-6E4C13?style=flat&logo=gear&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch_Script-000000?style=flat&logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly_x86_64-6E4C13?style=flat&logo=gear&logoColor=white)
 
 ---
 
