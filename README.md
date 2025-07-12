@@ -11,8 +11,6 @@
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kamronsafar&theme=onedark)](https://github.com/kamronsafar)
 
 
-ps://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
-
 <div align="center">
 
 ### 🎯 TryHackMe & HackTheBox
